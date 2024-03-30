@@ -141,7 +141,7 @@ Google OAuth 방식으로 가입 및 로그인할 수 있습니다.<br><br>
 ## 📄Documents
 - [API 문서](https://documenter.getpostman.com/view/26575250/2s946o2oSh)
 - [ERD](https://www.erdcloud.com/d/HBWEXRzvdih98w3A5)
-
+- [화면정의서](https://www.figma.com/file/cZQfgi2jl6fyPtR8jVp5bP/Untitled?type=design&node-id=0-1&mode=design&t=bWeuUhtf21MQF2Xk-0)
 
 <br><br>
 
